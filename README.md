@@ -11,4 +11,13 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-![preview img](/preview.png)
+A modern and responsive personal portfolio website showcasing my work, skills, and projects.  
+Designed with clean UI, smooth animations, and a professional layout.
+
+---
+
+## 📸 Preview Image
+
+![About Image](/preview1.png)
+
+---
