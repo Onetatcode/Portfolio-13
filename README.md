@@ -18,6 +18,6 @@ Designed with clean UI, smooth animations, and a professional layout.
 
 ## 📸 Preview Image
 
-![About Image](assets/img/about-perfil%20(2).png)
+![About Image](/preview1.png)
 
 ---
